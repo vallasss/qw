@@ -2975,8 +2975,8 @@ html.theme-light body.bd-minimal #app-mount::before {
 	display: block;
 	margin-top: calc(30px + .25em);
 	border-radius: var(--user-roundness);
-	height: 100px !important;
-	width: 100px !important;
+	height: 10px !important;
+	width: 10px !important;
 	box-shadow: 0 0 0 2px rgba(255, 255, 255, .15);
 	transition: 150ms ease box-shadow;
 }
